@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "calculate", "calculate\calculate.vcxproj", "{71B16666-3FAB-4085-B3E4-E1349759FE51}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "oop_calculate", "oop_calculate\oop_calculate.vcxproj", "{9C452141-4BED-49F6-ACE8-6509BE416816}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "calculate v 1.01", "calculate v 1.01\calculate v 1.01.vcxproj", "{70D30262-DACC-4445-9E26-B49658E5B06D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71B16666-3FAB-4085-B3E4-E1349759FE51}.Debug|Win32.ActiveCfg = Debug|Win32
+		{71B16666-3FAB-4085-B3E4-E1349759FE51}.Debug|Win32.Build.0 = Debug|Win32
+		{71B16666-3FAB-4085-B3E4-E1349759FE51}.Release|Win32.ActiveCfg = Release|Win32
+		{71B16666-3FAB-4085-B3E4-E1349759FE51}.Release|Win32.Build.0 = Release|Win32
+		{9C452141-4BED-49F6-ACE8-6509BE416816}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9C452141-4BED-49F6-ACE8-6509BE416816}.Debug|Win32.Build.0 = Debug|Win32
+		{9C452141-4BED-49F6-ACE8-6509BE416816}.Release|Win32.ActiveCfg = Release|Win32
+		{9C452141-4BED-49F6-ACE8-6509BE416816}.Release|Win32.Build.0 = Release|Win32
+		{70D30262-DACC-4445-9E26-B49658E5B06D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{70D30262-DACC-4445-9E26-B49658E5B06D}.Debug|Win32.Build.0 = Debug|Win32
+		{70D30262-DACC-4445-9E26-B49658E5B06D}.Release|Win32.ActiveCfg = Release|Win32
+		{70D30262-DACC-4445-9E26-B49658E5B06D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

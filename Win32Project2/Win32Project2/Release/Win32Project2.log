@@ -1,0 +1,20 @@
+﻿Сборка начата 22.01.2016 1:52:31.
+     1>Проект "C:\Users\Dmitry\documents\visual studio 2013\Projects\Win32Project2\Win32Project2\Win32Project2.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Mvs\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(118): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+       Link:
+         D:\Mvs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Dmitry\documents\visual studio 2013\Projects\Win32Project2\Release\Win32Project2.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Dmitry\documents\visual studio 2013\Projects\Win32Project2\Release\Win32Project2.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Dmitry\documents\visual studio 2013\Projects\Win32Project2\Release\Win32Project2.lib" /MACHINE:X86 /SAFESEH Release\hook.obj
+         Release\main.obj
+         Release\window.obj
+     1>log_lib_d.lib(cLog.obj) : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:ICF"
+         Создание кода
+     1>c:\users\dmitry\documents\visual studio 2013\projects\win32project2\win32project2\hook.cpp(27): warning C4715: UninstallHook: значение возвращается не при всех путях выполнения
+         Создание кода завершено
+         Win32Project2.vcxproj -> C:\Users\Dmitry\documents\visual studio 2013\Projects\Win32Project2\Release\Win32Project2.exe
+     1>Сборка проекта "C:\Users\Dmitry\documents\visual studio 2013\Projects\Win32Project2\Win32Project2\Win32Project2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.64
